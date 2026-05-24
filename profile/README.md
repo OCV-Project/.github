@@ -11,7 +11,7 @@
 3. [Контроль занятости парковочных мест]()
 4. [Контроль наличия каски и сигнального жилета]()
 5. [Детектор пыли и задымления на стройплощадке]()
-6. [Классификация дисперсности грузов]()
+6. [Классификация дисперсности грузов](https://github.com/OCV-Project/Dispertion-classification)
 
  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
