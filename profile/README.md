@@ -7,7 +7,7 @@
 ### Содержание
 
 1. [Анализ дорожного покрытия](https://github.com/OCV-Project/Road-detection)
-2. [Подсчет пассажиров в транспорте]()
+2. [Подсчет пассажиров в транспорте](https://github.com/OCV-Project/Passengers-counter)
 3. [Контроль занятости парковочных мест](https://github.com/OCV-Project/Parking-vision)
 4. [Контроль наличия каски и сигнального жилета](https://github.com/OCV-Project/Cask-control)
 5. [Детектор пыли и задымления на стройплощадке](https://github.com/OCV-Project/Smoke-control)
