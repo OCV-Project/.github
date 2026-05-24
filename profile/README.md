@@ -8,7 +8,7 @@
 
 1. [Анализ дорожного покрытия]()
 2. [Подсчет пассажиров в транспорте]()
-3. [Контроль занятости парковочных мест]()
+3. [Контроль занятости парковочных мест](https://github.com/OCV-Project/Parking-vision)
 4. [Контроль наличия каски и сигнального жилета](https://github.com/OCV-Project/Cask-control)
 5. [Детектор пыли и задымления на стройплощадке](https://github.com/OCV-Project/Smoke-control)
 6. [Классификация дисперсности грузов](https://github.com/OCV-Project/Dispertion-classification)
